@@ -1,4 +1,4 @@
-# cf_ai_BiasHunter
+# cf_ai_BiasDetect
 
 An AI-powered news bias analyzer built on Cloudflare's infrastructure. BiasHunter helps users detect political bias and sentiment in real-time news articles using Llama 3.3 on Workers AI.
 
